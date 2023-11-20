@@ -14,6 +14,7 @@ The course is organized into multiple sections, covering topics such as:
 - Linear Regression
 - Decision Trees and Random Forests
 - XGBoost
+  
 And many more
 
 Each section includes theory, practical examples, and hands-on exercises to reinforce your learning.
